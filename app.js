@@ -27,6 +27,7 @@ function jsToXmlFile(filename, obj, cb) {
   var filepath = path.normalize(path.join(__dirname, filename));
   var builder = new xml2js.Builder();
   var xml = builder.buildObject(obj);
+  fs.unlinkSync(filepath);
   fs.writeFile(filepath, xml, cb);
 }
 //We define the root of our website and render index.html located inside the views folder
