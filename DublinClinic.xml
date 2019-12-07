@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feelist>
+  <section name="Consultation">
+    <entree student="true">
+      <item>Adult</item>
+      <price>65</price>
+    </entree>
+    <entree>
+      <item>Follow up</item>
+      <price>30</price>
+    </entree>
+    <entree>
+      <item>House calls</item>
+      <price>80</price>
+    </entree>
+  </section>
+  <section name="Vaccines">
+    <entree student="true">
+      <item>Flu vaccine</item>
+      <price>25</price>
+    </entree>
+    <entree>
+      <item>Basic Pack</item>
+      <price>135</price>
+    </entree>
+  </section>
+  <section name="Screening">
+    <entree>
+      <item>Well man/woman check</item>
+      <price>150</price>
+    </entree>
+    <entree student="true">
+      <item>STD screening </item>
+      <price>135</price>
+    </entree>
+  </section>
+  <section name="Tests">
+    <entree>
+      <item>ECG</item>
+      <price>30</price>
+    </entree>
+    <entree>
+      <item>24 hour BP monitor</item>
+      <price>80</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Blood Test</item>
+      <price>25</price>
+    </entree>
+  </section>
+</feelist>
