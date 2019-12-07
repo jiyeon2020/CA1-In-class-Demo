@@ -1,0 +1,50 @@
+medical
+about us
+contect us
+services
+appointments
+
+
+Consultation 
+                        <item>Adult   (Discount for student or card)                          
+ 	<price>€65
+
+   	<item>Follow up      
+	<price>€30
+
+	<item>House calls                               
+	<item>€80
+ 
+​
+  
+
+Vaccines
+   	<item>Flu vaccine  (Discount for student or card)     
+	<price>€25
+
+   	<item>Flu vaccine   (Discount for student or card) 
+	<price>€25
+
+	<item>Basic Pack                               
+	<item>€135	
+
+
+
+
+Screening
+   	<item>Well man/woman check  
+	<price>€150
+
+   	<item>STD screening   (Discount for student or card) 
+	<price>€95
+
+
+Tests
+   	<item>ECG  
+	<price>€30
+
+   	<item>24 hour BP monitor
+	<price>€80
+
+	<item>Blood Test                             
+	<item>€25	
